@@ -1,0 +1,33 @@
+<HTML>
+<HEAD> <TITLE> My School </TITLE> </HEAD>
+<FONT SIZE = 150 COLOR = BLACK >
+<I><B><H1> HISTORY </H1></B></I>
+</FONT>
+<BODY>  <CENTER>  <IMG src = "http://static1.squarespace.com/static/5aa7b632a2772cf774ded006/t/5ab31a6088251b55498f3fd3/1521687140555/GIIS_+No-Tagline.png?format=1500w" align=Top height="100" width = "100">  </CENTER>
+<P>
+<FONT SIZE="70" COLOR="red">
+GIIS was founded in 2002 with just 48 students at Mount Sophia in Singapore. We have since grown to span seven countries 
+across Asia, with 19 campuses in Singapore, Malaysia, Japan, Thailand, UAE, Vietnam and India. During this time, we’ve 
+emerged as a leading international school offering Indian and international curricula to students from diverse backgrounds.
+<BR><BR><BR>
+Since its inception, GIIS has steadfastly focused on providing an extraordinary education to students from all over the world
+. In adopting the cultural ideology of “Schools That Learn,” GIIS makes each and every member of our community an equal 
+partner in the process of learning. In empowering students take on active roles in their own progress, we uniquely
+ engage them while promoting a culture reinforcing the joy of lifelong learning. <BR><BR>
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX 
+<OL type = "A">                                                                                                                                          
+<LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                                                                                                                                                                                                                                                                                             <LI> <A HREF = "MySchool.html"> My School </A> </LI>
+<LI> <A HREF = "History.html"> History </A> </LI>
+<LI> <A HREF ="Foundation.html"> Foundation </A> </LI>
+<LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>
+<LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>
+<LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>
+<LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>
+<LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>
+<LI> <A HREF ="Awards.html"> Awards </A> </LI>
+</OL>
+</P></FONT> </P>
+</BODY>
+</HTML>
+
