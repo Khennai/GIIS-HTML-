@@ -1,0 +1,66 @@
+<HTML LANG="EN">
+<HEAD></HEAD>
+<BODY="#1D2017">
+<FONT SIZE=20>
+<img src="mygiis.png" wielth=1900 height=1500 align="center" border=5 alt="mygiis"/>
+<HEADER>
+             <H1>MY GIIS</H1>
+</HEADER>
+<NAV>
+<ARTICLE>
+             <H2>MY GIIS</H2>
+<P>The myGIIS Edu ERP has been an invaluable tool for parents, teachers and our students to stay connected. We are committed to using best-of-breed technologies 
+to improve the educational experience we provide. With the introduction of the myGIIS app, students and parents can now seamlessly access their myGIIS account 
+anytime they wish, on their mobile and tablet platforms as well.</P>
+</NAV>
+<NAV>
+<ARTICLE>
+            <H3>EDUCATIONAL RESOURCE AT YOUR FINGERTIPS</H3>
+<P>GIIS’ Edu ERP provides parents with all of the tools they need to monitor and track their child’s educational progress.
+With the app, parents can communicate with teachers, track their child’s progress (get instant results on their activities and exams), analyse performance, 
+understand learning outcomes, see attendance data, read announcements, check tuition payments and much more.</P>
+</NAV>
+
+<NAV>
+        <H4>SOME OF THE CORE FEATURES</H4>
+     <UL>
+      <LI>Interactive Dashboard - Provides an overview of all important information and updates.</LI>
+       <LI>Student Information - Provides information about the student’s academic progress at a glance.</LI>
+        <LI>Announcements/News - Gives up-to-date announcement information about the latest activities and events</LI>
+        <LI> Access Academic Documents - Shows the student's latest work.</LI>
+         <LI>Fee Status - Keeps parents informed about their tuition payments.</LI>
+        <LI> Messaging System - Initiates communication between parents, teachers, staff and the principal.</LI>
+         <LI>Academic Calendar - Conveys important dates and assignments.</LI>
+         <LI>Gallery - Displays images from the latest events across various GIIS campuses.</LI>
+        <LI> Compliments and Achievements - Showcases compliments posted by parents and achievements by students across GIIS campuses worldwide.</LI>
+</UL>
+</NAV>
+<NAV>
+<ARTICLE>
+        <H5>DASHBOARD ADVANTAGES</H5>
+<P>Homework, calendar events, attendance records, feedback and school news are all included in the dashboard, so parents have complete access to all vital
+information to track their child’s progress whenever they need. The platform even has SMS features to allow better communication between the 
+school and parents.</p>
+</NAV>
+
+<ARTICLE>
+          <H6>PROVIDING A PLATFORM FOR COLLABORATION</H6>
+<P>With the addition of myGIIS to the GIIS program -- parents, teachers, students and staff have a centralised channel through which they can better 
+collaborate to ensure every student’s success. Parents can provide feedback through the portal, and teachers can share instant information about behaviour and 
+achievement. Students know what their parents and teachers are seeing and saying, so they are motivated to work harder and achieve further. Staff members can
+keep everyone well informed about potential changes to the schedule and share announcements that need to be made.</P>
+</ARTICLE>
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     
+<OL type = "A">                                                                                                                                                
+<LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                       
+<LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          
+<LI> <A HREF = "History.html"> History </A> </LI>                                                                                      
+<LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           
+<LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                               
+<LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           
+<LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>  
+</BODY>
+</HTML>
+
+
