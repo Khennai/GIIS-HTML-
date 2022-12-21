@@ -1,0 +1,77 @@
+<HTML>
+<HEAD> <TITLE> My School </TITLE>
+<FONT SIZE + 150 COLOR = BLACK>
+<I><B><H1> AWARDS </H1> </I></B>
+</FONT>
+
+<BODY> <CENTER> <IMG src = "http://www.globalschoolsfoundation.org/Portals/2/images/Global-School-Awards.jpg"> </CENTER>
+
+<P> <FONT SIZE = 5 COLOR = "Teal">
+<B>At GIIS, an indication that we’re succeeding at what we do is ample recognition by coveted national
+ and international organisations including Asia Pacific Quality Organisation, Institute of Directors, 
+Spring Singapore, and Indian Merchants Chamber among many others.</B>
+<BR><BR>
+Since our founding in 2002, we have been committed to providing comprehensive educational opportunities
+ to our students. Towards this end, we have undertaken conscious steps to instill efficiency and 
+effectiveness across all our operations, including management processes, operational methodologies,
+ and curriculum delivery.
+
+The ultimate result? Not only have we created and fostered a process-driven culture, but we’ve
+ also been able to synchronise and replicate these strong, benchmarked practices across all of
+ our campuses.
+
+It’s particularly significant as well as gratifying to all members of the GIIS community
+ -- including management, staff, parents, and students alike -- to be honoured for our collective
+ and ongoing efforts.
+
+Our dedication to a well-rounded and holistic approach for nurturing young minds for a better tomorrow
+ is no better signified than by the fact that we have been honoured with several national and 
+international awards for innovation and excellence in school education in such a short period of time.
+
+</FONT> </P>
+
+<P> <TABLE BORDER = "20" CELLSPACING = "50" CELLPADDING ="50" > 
+<TBODY BGCOLOR = "yellow">
+<TR> <TD><B><I><FONT SIZE = 30> YEAR </FONT></I></B></TD>
+    <TD><B><I> <FONT SIZE = 30>COMPETITION </FONT></I></B></TD>
+    <TD> <B><I><FONT SIZE = 30>WINNER(S) </FONT></I></B></TD>
+ </TR>
+ 
+<TR> <TD ROWSPAN = 8><B><I><FONT SIZE = 30>2018</FONT> </TD>
+     <TD>IMC RB National Quality Award Performance Excellence </TD>
+<TD>GIIS East Coast Campus, Singapore</TD>
+</TR>
+<TR> <TD> 2nd Global Benchmarking Award  Finalist</TD>
+<TD>      Global Indian International School in Singapore</TD></TR>
+
+<TR> <TD> 2nd International Best Practice Competition</TD>
+<TD>      Global Indian International School in Singapore</TD></TR>
+
+<TR> <TD> Golden Peacock HR Excellence Award </TD>
+<TD>       Global Indian International School in Singapore </TD></TR>
+
+<TR> <TD>Golden Peacock Eco-Innovation Award  </TD>
+           <TD> GIIS Balestier Campus, Singapore</TD></TR>
+
+<TR> <TD>Global Performance Excellence Award World Class </TD>
+<TD>       Global Indian International School in Singapore </TD></TR>
+
+<TR> <TD>Global Performance Excellence Award Best in Class </TD>
+<TD>       Global Indian International School in Singapore </TD></TR>
+<TR> <TD>Global Performance Excellence Award Quest for Excellence</TD>
+<TD>       Global Indian International School in Singapore </TD></TR>
+</TBODY>
+</TABLE><FONT SIZE = 40>
+<P> <A HREF=Giis1.html>History </A>
+    <A HREF=Giis2.html> The Foundation </A>
+</P></FONT>
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                    
+<OL type = "A">                                                                                                                                               
+<LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                           
+<LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          
+<LI> <A HREF = "History.html"> History </A> </LI>                                                                                      
+<LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           
+<LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                               
+<LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           
+<LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>
+</BODY></HTML>
