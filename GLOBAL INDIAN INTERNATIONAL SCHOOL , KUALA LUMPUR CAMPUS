@@ -1,0 +1,73 @@
+
+<HTML>
+<HEAD>
+</HEAD>
+<BODY BGCOLOR="SAFRON" FONT SIZE=80 FONT COLOR="BLUE">
+<HEADER>
+      <H1>GIIS KUALALUMPUR CAMPUS</H1>
+</header>
+<nva>
+      <h2>FACILITIES</h2>
+      <ul>
+          <li>Computer Laboratory<li>
+          <li>Library with over 10,000 titles<li>
+         <li>Music Room<li>
+         <li>Dance Room<li>
+         <li>Speech and Drama Room<li>
+         <li>Yoga Room<li>
+          <li>Conference / Audio Video Presentation Room<li>
+         <li>Auditorium with AV facilities<li>
+          <li>Science Laboratories for Biology, Physics & Chemistry with Smart TV Installations<li>
+          <li>Cafeteria (Vegetarian & Non – Vegetarian Food)<li>
+         <li>Table Tennis<li>
+          <li>Badminton Court<li>
+          <li>Basket Ball Court<li>
+          <li>Volleyball / Throw-ball Court<li>
+     </ul>
+</nav>
+<ARTICLE>
+      <H3>LIFE AT GIIS</H3>
+      <P>At GIIS, we believe in working with students to create future global citizens who are not only well educated, but also well-rounded.
+
+To help reach that goal, we divide all of our campuses into four houses. Students are placed into a house, and inter- and intra-school competitions 
+allow them to compete against other houses in academics, performing arts, fine arts, literature, and sports. These school and house activities help students 
+showcase their learning while also developing a sense of teamwork and pride in individual accomplishments.</P>
+</ARTICLE>
+<ARTICLE>
+       <H4>EXTRA CIRRICULAR ACTIVITIES</H4>
+       <P>Extra-curricular activities are those activities, often sports-based, that take place outside of the GIIS classroom, helping students develop their 
+       personalities and physical aptitude, which is a crucial part of our Nine Gems programme. Students who show particular talent in these extracurricular 
+       activities may participate in the Gold Squad Programme, which provides additional, intensive training under skilled coaches.</P>
+</ARTICLE>
+<NAV>
+        <H5>ACTIVITIES INSPIRING INNOVATION</H5.
+        <OL>
+            <LI>Creative Sparks - An activity encouraging creative, innovative thinking across all subjects.</LI>
+            <LI>Buck-a-Day - A program allowing students to share their ideas to save $1 or more each day.</LI>
+            <LI>Sony Creative Toy Competition - An exercise showcasing hand-made toys that are created by applying innovative scientific techniques.</LI>
+        </OL>
+</NAV>
+<NAV>
+        <H6>CO-CIRRICULAR ACTIVITIES</H6>
+        <UL>
+            <LI>Vocal music</LI>
+            <LI>Bharatanatayam</LI>
+            <LI>Musical Instruments - Guitar, tabla, keyboard</LI>
+            <LI>Creative Arts - Home decor, Ceramics</LI>
+            <LI>Language learning (Hindi, Mandarin, Japanese)</LI>
+            <LI>Hobby Clubs - Science, IT, Math etc.</LI>
+</NAV>
+
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                    
+<OL type = "A">                                                                                                                                              
+<LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                     
+<LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          
+<LI> <A HREF = "History.html"> History </A> </LI>                                                                                      
+<LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           
+<LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                
+<LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           
+<LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P> 
+
+</BODY>
+</HTML>
