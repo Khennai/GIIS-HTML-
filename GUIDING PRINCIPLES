@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>my school</title>
+</head>
+<body bgcolor="palegreen">
+<H1 align=center>GUIDING PRINCIPLES<H1>
+<font size=6 color=darkgreen>
+<p>
+The mission statement supports this vision while also conveying how they plan to realize it:
+
+They nurture the global students into men and women, who will be leaders of distinction, committed to spirit of excellence, through high quality 
+education imparted by globally experienced and caring teachers building strong virtues and values while focusing on all round development, creativity 
+and entrepreneurship.
+<p>
+<H4 ailign=left>CORE VALUES<H4>
+To that end, several core values infuse everything they do at GIIS:
+<ul>
+<li>Manage with information and metrics
+<li>Agility and Adaptability
+<li>Honesty, Integrity and Ethical Practices
+<li>Attitude before Knowledge
+<li>Teamwork
+<li>Mentor, Coach and Make a Difference
+<li>Ambience for Learning
+</ul>
+<center>
+<IMG src="https://pbs.twimg.com/media/DggVT4RXUAASV9O.jpg"height=150 width=200> 
+</center>
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     
+<OL type = "A">                                                                                                                                               
+<LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                                    
+<LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          
+<LI> <A HREF = "History.html"> History </A> </LI>                                                                                      
+<LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           
+<LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                
+<LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           
+<LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>  
+</body>
+</html>
