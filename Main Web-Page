@@ -1,0 +1,387 @@
+MAIN WEB- PAGE :
+<HTML>                               
+<HEAD> <TITLE> My School </TITLE> </HEAD>            
+<FONT COLOR = "black" SIZE = 10>                    
+<H1> GLOBAL INDIAN INETRANTIONAL SCHOOL </H1>     
+<CENTER> <IMG src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABjFBMVEX////tGyT3lB2nzTkAAAAAWqsAre/sAAD39/cAq+/z8/P7+/sAqO7T0tLs7Ozg4OCzsrPFxcVAPT4zMDHn5+fMy8wuKyxbWVmAf3+KiYmhoKCV7wypAAAAAElFTkSuQmCC" width = "400" height= "400">
+</CENTER></FONT>
+<BODY> <FONT COLOR =green SIZE = 6 > <I><B>School serves a number of purposes from building confidence to learning the importance of teamwork and working with others. School helps guide youngsters though the establishment of a daily routine, which is of utmost importance as we direct them toward the workplace, and as they become productive members of society. Students are provided with access to new ideas, including science and language, and are given the opportunity to learn more about world cultures, geography, and personal history.</FONT>
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                          
+<OL type = "A">                                         
+<LI> <A HREF = "Main.html"> Global Indian International School </A></LI> 
+<LI> <A HREF = "MySchool.html"> My School </A> </LI>     
+<LI> <A HREF = "History.html"> History </A> </LI>    
+<LI> <A HREF ="Foundation.html"> Foundation </A> </LI> 
+<LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>   
+<LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI> 
+<LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>   
+<LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>  
+<LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>        
+<LI> <A HREF ="Awards.html"> Awards </A> </LI>      
+</OL>  </P>                                  
+</BODY> </HTML>
+
+
+3)	HISTORY WEB PAGE 
+<HTML>
+<HEAD> <TITLE> My School </TITLE> </HEAD>
+<FONT SIZE = 150 COLOR = BLACK >
+<I><B><H1> HISTORY </H1></B></I>
+</FONT>
+<BODY>  <CENTER>  <IMG src = "http://static1.squarespace.com/static/5aa7b632a2772cf774ded006/t/5ab31a6088251b55498f3fd3/1521687140555/GIIS_+No-Tagline.png?format=1500w" align=Top height="100" width = "100">  </CENTER>
+<P>
+<FONT SIZE="70" COLOR="red">
+GIIS was founded in 2002 with just 48 students at Mount Sophia in Singapore. We have since grown to span seven countries 
+across Asia, with 19 campuses in Singapore, Malaysia, Japan, Thailand, UAE, Vietnam and India. During this time, we’ve 
+emerged as a leading international school offering Indian and international curricula to students from diverse backgrounds.
+<BR><BR><BR>
+Since its inception, GIIS has steadfastly focused on providing an extraordinary education to students from all over the world
+. In adopting the cultural ideology of “Schools That Learn,” GIIS makes each and every member of our community an equal 
+partner in the process of learning. In empowering students take on active roles in their own progress, we uniquely
+ engage them while promoting a culture reinforcing the joy of lifelong learning.<BR><BR>
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX 
+<OL type = "A">                                                                                                                                               <LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                                                                                                                                                                                                                                                                                             <LI> <A HREF = "MySchool.html"> My School </A> </LI>
+<LI> <A HREF = "History.html"> History </A> </LI>
+<LI> <A HREF ="Foundation.html"> Foundation </A> </LI>
+<LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>
+<LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>
+<LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>
+<LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>
+<LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>
+<LI> <A HREF ="Awards.html"> Awards </A> </LI>
+</OL>
+</P></FONT> </P>
+</BODY>
+</HTML>
+
+4)	FOUNDATION WEB PAGE
+<HTML><HEAD><TITLE>My School </TITLE></HEAD>                                                                            <FONT COLOR = "black" SIZE = 150>                                                                                                      <I><B>   <H1> THE FOUNDATION </H1>       </B></I></FONT>
+<CENTER>  <IMG src = "https://yt3.ggpht.com/a-/ACSszfHotYg9m78jh_zMSxvrl2LwsYsLVo3HIhM3Dg=s900-mo-c-c0xffffffff-rj-k-no">         </CENTER>
+<BODY> <FONT COLOR = "Blue" SIZE = 10 >With the mission to cultivate and nurture young minds into global leaders of the future, the Singapore-based Global Schools Foundation was founded in 2002. <BR>Following high standards in governance, established academic criteria, and well-administered management processes, the Foundation has completed over 15 exemplary years marked by international recognition for achieving excellence in school education.
+</FONT><BR><BR><BR>
+<TABLE> <TR> <TD><IMG src = "https://www.sataban.com/wp-content/sabai/File/files/fca8c2d69d655a93d5540835b78d35cd.jpg" HEIGHT = 300> </TD>             <TD><IMG src = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhMSEhMVFhUXFxQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFABQAUAFAH/2Q==" > </TD></TR>
+ <TR><TD> <FONT COLOR="ORANGE" SIZE = 5 ><P>Global Indian International School (GIIS) is an international network of award-winning schools with 19 campuses across 7 countries, including Singapore,Malaysia, Japan, Thailand, UAE, Vietnam and India. GIIS is a preferred international school offering international and Indian curricula from kindergarten through Class 12, including the International Baccalaureate Diploma Programme (IBDP), Cambridge IGCSE, the Central Board of Secondary Education (CBSE), Cambridge Lower Secondary Programme (CLSP) and Global Montessori Plus (GMP) programme.</FONT></TD>
+          <TD><FONT COLOR = "GREEN" SIZE = 5>One World International School is located in pleasant and spacious surroundings on the East Coast in Singapore and the school offers a rich multi – cultural and co – educational environment to all students. OWIS, in the early and primary years follows the Primary Years Programme and in the Middle Years OWIS provides a structured curriculum with an inquiry approach, to provide a sound foundation for students to follow on to the course of the International General Certificate of Secondary Education (IGCSE).</FONT></TR>
+</TABLE>
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     <OL type = "A">                                                                                                                                              <LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                                                                                                                                <LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          <LI> <A HREF = "History.html"> History </A> </LI>                                                                                      <LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           <LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                <LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           <LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur sssa                   <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>                                                                                                                                 </HEAD></HTML>
+5)	NINE GEMS WEB PAGE
+<html>
+<head>
+<title>my school</title>
+</head>
+<body bgcolor="moccasin">
+<H1 align=center>NINE GEMS<H1>
+<font size=4 color=tomato>
+<p>
+The award-winning Nine Gems model recognizes that success in the contemporary world relies not only on cognizance, but also on creativity, entrepreneurship, and the ability to explore.
+
+What makes Nine Gems truly innovative is its balanced, age-appropriate, and adaptive approach which allows it to evolve with students as they grow. While academic excellence is emphasized at every level, the focus is placed on universal values, ethics, discipline, creativity and personality development in the initial years, before shifting to academic achievement, leadership and entrepreneurial skills, and key competencies for vocational and career progression during the secondary and high school years.
+<p>
+<ul>
+<li>Academic Excellence
+</ul>
+<p>
+GIIS’ internationally acclaimed academic excellence measurement framework integrates best practices in pedagogy designed to optimize learning outcomes for every single child.
+<ul>
+<li>Sports Excellence
+</ul>
+<p>
+GIIS is committed to shaping and honing student athletes, as well as providing them with a platform for displaying their growth and abilities. 
+<ul>
+<li>Visual and Performing Arts</ul>
+<p>
+Early exposure to digital and visual arts helps students explore and discover their inclination towards the area of art and its appreciation while also fostering creativity and promoting overall learning.
+<ul>
+<li>Personality Development</ul>
+<p>
+This Gem facilitates unique learning opportunities focused on cultivating various aspects of character development, including communication and social skills, confidence and teamwork.
+<ul>
+<li>Innovation and Creativity</ul.
+<p>
+Creativity is the key to solving today's complex challenges. The GIIS Comprehensive Creativity Development Programme (CCDP) helps students develop innovative approaches to problem solving 
+<ul>
+<li>Entreprenuership and Leadership</ul>
+<p>
+Decision-making, critical thinking, effective communication and problem-solving abilities enable students to undertake responsibility and authority.
+<ul>
+<li>Universal values and ethics</ul>
+<p>
+GIIS produces more than good leaders. It also produces good human beings. 
+<ul>
+<li>Community and care</ul>
+<p>
+Through various green initiatives, this sphere aims to nurture children as socially responsible citizens of tomorrow.
+<ul>
+<li>Skills Development</ul>
+<p>
+Taught to differentiate between a career, a vocation and life skills, students are encouraged to choose paths that will be meaningful and satisfying.
+<center>
+<IMG src="https://www.globalindianschool.org/uploaded/9_Gems_Logo_LATEST.png" height=100 width=150.
+</center.
+
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     <OL type = "A">                                                                                                                                                <LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                                  <LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          <LI> <A HREF = "History.html"> History </A> </LI>                                                                                      <LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           <LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                <LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           <LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur sssa                   <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>  
+</body>
+</html>
+6)	GUIDING PRINCIPLES :
+<html>
+<head>
+<title>my school</title>
+</head>
+<body bgcolor="palegreen">
+<H1 align=center>GUIDING PRINCIPLES<H1>
+<font size=6 color=darkgreen>
+<p>
+The mission statement supports this vision while also conveying how they plan to realize it:
+
+They nurture the global students into men and women, who will be leaders of distinction, committed to spirit of excellence, through high quality education imparted by globally experienced and caring teachers building strong virtues and values while focusing on all round development, creativity and entrepreneurship.
+<p>
+<H4 ailign=left>CORE VALUES<H4>
+To that end, several core values infuse everything they do at GIIS:
+<ul>
+<li>Manage with information and metrics
+<li>Agility and Adaptability
+<li>Honesty, Integrity and Ethical Practices
+<li>Attitude before Knowledge
+<li>Teamwork
+<li>Mentor, Coach and Make a Difference
+<li>Ambience for Learning
+</ul>
+<center>
+<IMG src="https://pbs.twimg.com/media/DggVT4RXUAASV9O.jpg"height=150 width=200> 
+</center>
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     <OL type = "A">                                                                                                                                                <LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                                    <LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          <LI> <A HREF = "History.html"> History </A> </LI>                                                                                      <LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           <LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                <LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           <LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>  
+</body>
+</html>
+7)	GLOBAL INDIAN INTERNATIONAL SCHOOL , KUALA LUMPUR CAMPUS
+<HTML>
+<HEAD>
+</HEAD>
+<BODY BGCOLOR="SAFRON" FONT SIZE=80 FONT COLOR="BLUE">
+<HEADER>
+      <H1>GIIS KUALALUMPUR CAMPUS</H1>
+</header>
+<nva>
+      <h2>FACILITIES</h2>
+      <ul>
+          <li>Computer Laboratory<li>
+          <li>Library with over 10,000 titles<li>
+         <li>Music Room<li>
+         <li>Dance Room<li>
+         <li>Speech and Drama Room<li>
+         <li>Yoga Room<li>
+          <li>Conference / Audio Video Presentation Room<li>
+         <li>Auditorium with AV facilities<li>
+          <li>Science Laboratories for Biology, Physics & Chemistry with Smart TV Installations<li>
+          <li>Cafeteria (Vegetarian & Non – Vegetarian Food)<li>
+         <li>Table Tennis<li>
+          <li>Badminton Court<li>
+          <li>Basket Ball Court<li>
+          <li>Volleyball / Throw-ball Court<li>
+     </ul>
+</nav>
+<ARTICLE>
+      <H3>LIFE AT GIIS</H3>
+      <P>At GIIS, we believe in working with students to create future global citizens who are not only well educated, but also well-rounded.
+
+To help reach that goal, we divide all of our campuses into four houses. Students are placed into a house, and inter- and intra-school competitions allow them to compete against other houses in academics, performing arts, fine arts, literature, and sports. These school and house activities help students showcase their learning while also developing a sense of teamwork and pride in individual accomplishments.</P>
+</ARTICLE>
+<ARTICLE>
+       <H4>EXTRA CIRRICULAR ACTIVITIES</H4>
+       <P>Extra-curricular activities are those activities, often sports-based, that take place outside of the GIIS classroom, helping students develop their personalities and physical aptitude, which is a crucial part of our Nine Gems programme. Students who show particular talent in these extracurricular activities may participate in the Gold Squad Programme, which provides additional, intensive training under skilled coaches.</P>
+</ARTICLE>
+<NAV>
+        <H5>ACTIVITIES INSPIRING INNOVATION</H5.
+        <OL>
+            <LI>Creative Sparks - An activity encouraging creative, innovative thinking across all subjects.</LI>
+            <LI>Buck-a-Day - A program allowing students to share their ideas to save $1 or more each day.</LI>
+            <LI>Sony Creative Toy Competition - An exercise showcasing hand-made toys that are created by applying innovative scientific techniques.</LI>
+        </OL>
+</NAV>
+<NAV>
+        <H6>CO-CIRRICULAR ACTIVITIES</H6>
+        <UL>
+            <LI>Vocal music</LI>
+            <LI>Bharatanatayam</LI>
+            <LI>Musical Instruments - Guitar, tabla, keyboard</LI>
+            <LI>Creative Arts - Home decor, Ceramics</LI>
+            <LI>Language learning (Hindi, Mandarin, Japanese)</LI>
+            <LI>Hobby Clubs - Science, IT, Math etc.</LI>
+</NAV>
+
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     <OL type = "A">                                                                                                                                                <LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                     <LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          <LI> <A HREF = "History.html"> History </A> </LI>                                                                                      <LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           <LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                <LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           <LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P> 
+
+</BODY>
+</HTML>
+
+
+8)	HAPPINESS INDEX WEB PAGE
+<HTML LANG="EN">
+<HEAD></HEAD>
+<BODY BGCOLOR="PINK" FONT SIZE=20 FONT COLOR="BLACK">
+<FONT SIZE=20>
+<HEADER>
+       <H1>HAPPINESS INDEX OF GIIS</H1>
+</HEADER>
+<NAV>
+       <H2>MEASURING HAPPINESS</H2>
+       <UL>
+          <LI>A questionnaire through which the happiness index is computed</LI>
+          <LI>Feedback from children</LI>
+          <LI>Testimonials from parents</LI>
+          <LI>Regular attendance</LI>
+          <LI>Positive referrals and sibling admissions</LI>
+          <LI>High academic performance</LI>
+          <LI>High level of participation in school activities</LI>
+       </UL>
+</NAV>
+<ARTICLE>
+        <H2>PHYSICAL ENVIRONMENT</H2>
+        <P>GIIS offers a warm, secure and comfortable setting for students leaving the familiarity of their homes. Bright colors, open spaces, green lawns, and well-lit classrooms are conducive to individual instruction as well as group work and peer teaching. Classrooms also have locker facilities to save children from carrying books back and forth</P>
+<ARTICLE>
+<ARTICLE>
+        <H3>CIRRICULUM</H3>
+        <P>While every outstanding school has a comprehensive and meaningful curriculum, our internationally renowned GIIS Nine Gems model elevates learning to another level. In addition to carefully constructed syllabi, we also offer enrichment opportunities, including self-learning, peer-learning and group learning, to further engage students.</P>
+<ARTICLE>
+<ARTICLE>
+        <H4>FACULTY</H4>
+        <P>The adults who interact with the students are a key differentiator within any schooling system. At GIIS, our teachers are the medium through which we nurture happiness in our students. Because we believe that each of them must understand our unique philosophy, all candidates undergo a rigorous recruitment process which factors in not only academic qualifications and experience, but also attitude. Our staff members have the desire to teach, but they also have the desire to learn -- not only from other adults, but from the students, too.</P>
+<ARTICLE>
+<ARTICLE>
+        <H5>ATMOSPHERE</H5>
+        <P>The atmosphere our students dwell in helps them in becoming emotionally secure and balance, and allows them to process and understand a lot of information happening around them. Students are exposed to a judicial mix of scholastic and co-scholastic life enriching activities that help them enjoy multiple aspects of learning, so much that coming to school every day is like an exciting journey for them to start and gain wisdom.</P>
+<ARTICLE>
+<ARTICLE>
+        <H6>TREATMENT</H6>
+        <P>Students love doing things when they know what they are doing and believe in it. We at GIIS believe in treating every child as a distinct individual having an unmatchable personality and talents to nurture. Each GIIS campus works on various dimensions of a child so that they enjoy every part of schooling.</P>
+</ARTICLE>
+
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     <OL type = "A">                                                                                                                                                <LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                                <LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          <LI> <A HREF = "History.html"> History </A> </LI>                                                                                      <LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           <LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                <LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           <LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>  
+
+</BODY>
+</HTML>
+9)	myGIIS EduERP
+<HTML LANG="EN">
+<HEAD></HEAD>
+<BODY="#1D2017">
+<FONT SIZE=20>
+<img src="mygiis.png" wielth=1900 height=1500 align="center" border=5 alt="mygiis"/>
+<HEADER>
+             <H1>MY GIIS</H1>
+</HEADER>
+<NAV>
+<ARTICLE>
+             <H2>MY GIIS</H2>
+<P>The myGIIS Edu ERP has been an invaluable tool for parents, teachers and our students to stay connected. We are committed to using best-of-breed technologies to improve the educational experience we provide. With the introduction of the myGIIS app, students and parents can now seamlessly access their myGIIS account anytime they wish, on their mobile and tablet platforms as well.</P>
+</NAV>
+<NAV>
+<ARTICLE>
+            <H3>EDUCATIONAL RESOURCE AT YOUR FINGERTIPS</H3>
+<P>GIIS’ Edu ERP provides parents with all of the tools they need to monitor and track their child’s educational progress.
+With the app, parents can communicate with teachers, track their child’s progress (get instant results on their activities and exams), analyse performance, understand learning outcomes, see attendance data, read announcements, check tuition payments and much more.</P>
+</NAV>
+
+<NAV>
+        <H4>SOME OF THE CORE FEATURES</H4>
+     <UL>
+      <LI>Interactive Dashboard - Provides an overview of all important information and updates.</LI>
+       <LI>Student Information - Provides information about the student’s academic progress at a glance.</LI>
+        <LI>Announcements/News - Gives up-to-date announcement information about the latest activities and events</LI>
+        <LI> Access Academic Documents - Shows the student's latest work.</LI>
+         <LI>Fee Status - Keeps parents informed about their tuition payments.</LI>
+        <LI> Messaging System - Initiates communication between parents, teachers, staff and the principal.</LI>
+         <LI>Academic Calendar - Conveys important dates and assignments.</LI>
+         <LI>Gallery - Displays images from the latest events across various GIIS campuses.</LI>
+        <LI> Compliments and Achievements - Showcases compliments posted by parents and achievements by students across GIIS campuses worldwide.</LI>
+</UL>
+</NAV>
+<NAV>
+<ARTICLE>
+        <H5>DASHBOARD ADVANTAGES</H5>
+<P>Homework, calendar events, attendance records, feedback and school news are all included in the dashboard, so parents have complete access to all vital information to track their child’s progress whenever they need. The platform even has SMS features to allow better communication between the school and parents.</p>
+</NAV>
+
+<ARTICLE>
+          <H6>PROVIDING A PLATFORM FOR COLLABORATION</H6>
+<P>With the addition of myGIIS to the GIIS program -- parents, teachers, students and staff have a centralised channel through which they can better collaborate to ensure every student’s success. Parents can provide feedback through the portal, and teachers can share instant information about behaviour and achievement. Students know what their parents and teachers are seeing and saying, so they are motivated to work harder and achieve further. Staff members can keep everyone well informed about potential changes to the schedule and share announcements that need to be made.</P>
+</ARTICLE>
+
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     <OL type = "A">                                                                                                                                                <LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                       <LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          <LI> <A HREF = "History.html"> History </A> </LI>                                                                                      <LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           <LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                <LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           <LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>  
+</BODY>
+</HTML>
+
+10)	AWARDS WEB PAGE
+<HTML>
+<HEAD> <TITLE> My School </TITLE>
+<FONT SIZE + 150 COLOR = BLACK>
+<I><B><H1> AWARDS </H1> </I></B>
+</FONT>
+
+<BODY> <CENTER> <IMG src = "http://www.globalschoolsfoundation.org/Portals/2/images/Global-School-Awards.jpg"> </CENTER>
+
+<P> <FONT SIZE = 5 COLOR = "Teal">
+<B>At GIIS, an indication that we’re succeeding at what we do is ample recognition by coveted national
+ and international organisations including Asia Pacific Quality Organisation, Institute of Directors, 
+Spring Singapore, and Indian Merchants Chamber among many others.</B>
+<BR><BR>
+Since our founding in 2002, we have been committed to providing comprehensive educational opportunities
+ to our students. Towards this end, we have undertaken conscious steps to instill efficiency and 
+effectiveness across all our operations, including management processes, operational methodologies,
+ and curriculum delivery.
+
+The ultimate result? Not only have we created and fostered a process-driven culture, but we’ve
+ also been able to synchronise and replicate these strong, benchmarked practices across all of
+ our campuses.
+
+It’s particularly significant as well as gratifying to all members of the GIIS community
+ -- including management, staff, parents, and students alike -- to be honoured for our collective
+ and ongoing efforts.
+
+Our dedication to a well-rounded and holistic approach for nurturing young minds for a better tomorrow
+ is no better signified than by the fact that we have been honoured with several national and 
+international awards for innovation and excellence in school education in such a short period of time.
+
+</FONT> </P>
+
+<P> <TABLE BORDER = "20" CELLSPACING = "50" CELLPADDING ="50" > 
+<TBODY BGCOLOR = "yellow">
+<TR> <TD><B><I><FONT SIZE = 30> YEAR </FONT></I></B></TD>
+    <TD><B><I> <FONT SIZE = 30>COMPETITION </FONT></I></B></TD>
+    <TD> <B><I><FONT SIZE = 30>WINNER(S) </FONT></I></B></TD>
+ </TR>
+ 
+<TR> <TD ROWSPAN = 8><B><I><FONT SIZE = 30>2018</FONT> </TD>
+     <TD>IMC RB National Quality Award Performance Excellence </TD>
+<TD>GIIS East Coast Campus, Singapore</TD>
+</TR>
+<TR> <TD> 2nd Global Benchmarking Award  Finalist</TD>
+<TD>      Global Indian International School in Singapore</TD></TR>
+
+<TR> <TD> 2nd International Best Practice Competition</TD>
+<TD>      Global Indian International School in Singapore</TD></TR>
+
+<TR> <TD> Golden Peacock HR Excellence Award </TD>
+<TD>       Global Indian International School in Singapore </TD></TR>
+
+<TR> <TD>Golden Peacock Eco-Innovation Award  </TD>
+           <TD> GIIS Balestier Campus, Singapore</TD></TR>
+
+<TR> <TD>Global Performance Excellence Award World Class </TD>
+<TD>       Global Indian International School in Singapore </TD></TR>
+
+<TR> <TD>Global Performance Excellence Award Best in Class </TD>
+<TD>       Global Indian International School in Singapore </TD></TR>
+<TR> <TD>Global Performance Excellence Award Quest for Excellence</TD>
+<TD>       Global Indian International School in Singapore </TD></TR>
+</TBODY>
+</TABLE><FONT SIZE = 40>
+<P> <A HREF=Giis1.html>History </A>
+    <A HREF=Giis2.html> The Foundation </A>
+</P></FONT>
+<P> <FONT COLOR =dark green SIZE = 6 > INDEX                                                                                     <OL type = "A">                                                                                                                                                <LI> <A HREF = "Main.html"> Global Indian International School </A></LI>                                           <LI> <A HREF = "MySchool.html"> My School </A> </LI>                                                                          <LI> <A HREF = "History.html"> History </A> </LI>                                                                                      <LI> <A HREF ="Foundation.html"> Foundation </A> </LI>                                                                           <LI> <A HREF = "NineGems.html"> Nine Gems </A> </LI>                                                                                <LI> <A HREF ="GuidingPrinciples.html"> Guiding Principles </A> </LI>                                                           <LI> <A HREF = "GiisKLCamp.html"> Global Indian International School , Kuala Lumpur Campus </A> </LI>                                                                                                                                                                    <LI> <A HREF = "HappinessIndex.html"> Happiness Index </A> </LI>                                                           <LI> <A HREF = "MyGiis.html"> myGIIS EduERP </A> </LI>                                                                                <LI> <A HREF ="Awards.html"> Awards </A> </LI>                                                                                    </OL>     </P>
+</BODY></HTML>
